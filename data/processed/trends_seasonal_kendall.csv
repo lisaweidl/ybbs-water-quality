@@ -1,0 +1,11 @@
+parameter,median,kendall_tau,p_value,sen_slope_per_year,change_pct_per_decade,significant_5pct
+water_temp_c,10.55,0.087,0.2576,0.08452,8.0,False
+conductivity_us_cm,509.5,0.057,0.4619,1.5,2.9,False
+chloride_mg_l,9.9,-0.019,0.8209,-0.0265,-2.7,False
+sulfate_mg_l,43.25,0.089,0.2459,0.75625,17.5,False
+nitrate_n_mg_l,1.61,-0.219,0.0039,-0.04,-24.8,True
+ammonium_n_mg_l,0.022,0.057,0.4619,0.0004,18.2,False
+orthophosphate_p_mg_l,0.0059,0.07,0.3652,0.0,0.0,False
+total_p_mg_l,0.0155,0.104,0.1743,0.00037,23.7,False
+doc_mg_l,2.3,0.104,0.1743,0.03333,14.5,False
+do_saturation_pct,97.8,0.019,0.8209,0.05,0.5,False
